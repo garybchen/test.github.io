@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 欢迎来到garybchen的GitHub世界
 
-You can use the [editor on GitHub](https://github.com/garybchen/garybchen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这是我的第一篇GitHub文章.也是我Python的开始.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Python3
 
-```markdown
-Syntax highlighted code block
+你好，世界
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+#!/usr/bin/python3
+ 
+print("Hello, World!")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+一些学习和进步会在博客中书写，个人时间有限，也许会忘记更新也说不定
 
-### Jekyll Themes
+### 支持与联系
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garybchen/garybchen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+若提供帮助或有问题请联系garybchen@163.com.
